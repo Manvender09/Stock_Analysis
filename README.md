@@ -3,7 +3,7 @@ Analyzing the various trends of the stock market
 
 Time series analysis of the stock market
 
-Using the packages such as #pandas , #numpy , #seaborn , #matplotlib and #plotly. 
+Using the packages such as pandas , numpy , seaborn , matplotlib and plotly. 
 The predownloaded data set of different stock as csv file was used to do various analysis which are mentioned below: -
 
 1. Analysing the closing price for each stock and visualizing by plotting it to understand better.
